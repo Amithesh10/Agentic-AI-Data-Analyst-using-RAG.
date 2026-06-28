@@ -1,0 +1,13 @@
+streamlit
+groq
+python-dotenv
+pandas
+numpy
+plotly
+scikit-learn
+chromadb
+sentence-transformers
+pypdf
+python-docx
+openpyxl
+reportlab

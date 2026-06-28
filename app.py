@@ -19,7 +19,7 @@ from agents.forecast_agent import forecast_column
 load_dotenv()
 
 st.set_page_config(
-    page_title="IntelliAnalyst AI",
+    page_title="AI Data Analyst",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
